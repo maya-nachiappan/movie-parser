@@ -1,0 +1,1 @@
+This C++ program parses a given string containing episode information and year ("24 s2,2014") into a structured format. It stores the episode (season/episode) as a string and the year as a short integer in a Movie structure. The program is split into separate header and source files, following standard C++ project organizatio
